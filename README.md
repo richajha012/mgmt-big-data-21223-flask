@@ -39,3 +39,18 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 2021-11-18 02:20:08.516193: W tensorflow/core/framework/cpu_allocator_impl.cc:80] Allocation of 93763584 exceeds 10% of free system memory.
 2021-11-18 02:20:08.618882: W tensorflow/core/framework/cpu_allocator_impl.cc:80] Allocation of 93763584 exceeds 10% of free system memory.
 All model checkpoint layers were used when initializing TFDistilBertForQuestionAnswering.
+
+
+All the layers of TFDistilBertForQuestionAnswering were initialized from the model checkpoint at distilbert-base-uncased-distilled-squad.
+If your task is similar to the task the model of the checkpoint was trained on, you can already use TFDistilBertForQuestionAnswering for predictions without further training.
+Downloading Files
+Inside the File List Loop
+Blob Created
+File Downloaded as string
+Calling the Question Answer Function
+file_read
+file_aded to intmd
+writing file to location
+question_answer completed
+calling delete function
+delete completed
